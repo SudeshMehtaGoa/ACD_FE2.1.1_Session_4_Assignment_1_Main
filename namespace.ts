@@ -1,3 +1,4 @@
+/* namespace file with interface and function */
 namespace nsStudent{
     /* interface */
     export interface IStudent {
